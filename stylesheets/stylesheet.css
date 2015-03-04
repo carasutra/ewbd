@@ -171,6 +171,17 @@ a.button span {
 
 #book { opacity: 0.4;  }
 
+
+#pinterest span {
+  background: transparent url(../images/pinterest.png) 12px 50% no-repeat;
+}
+#twitter span {
+  background: transparent url(../images/twitter.png) 12px 50% no-repeat;
+}
+#brook span {
+  background: transparent url(../images/brook.png) 12px 50% no-repeat;
+}
+
 #view-on-github {
   margin-right: 0;
 }
