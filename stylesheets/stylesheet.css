@@ -95,7 +95,7 @@ header h2 {
 }
 
 .inner {
-  width: 620px;
+  width: 784px;
   margin: 0 auto;
 }
 
@@ -110,12 +110,12 @@ header h2 {
 a.button {
   display: block;
   float: left;
-  width: 179px;
+  width: 229px;
   padding: 12px 8px 12px 8px;
   margin-right: 14px;
   font-size: 15px;
   font-weight: bold;
-  line-height: 25px;
+  line-height: 32px;
   color: #303030;
   background: #fdfdfd; /* Old browsers */
   background: -moz-linear-gradient(top,  #fdfdfd 0%, #f2f2f2 100%); /* FF3.6+ */
@@ -153,8 +153,8 @@ a.button:hover {
 
 a.button span {
   display: block;
-  height: 23px;
-  padding-left: 50px;
+  height: 32px;
+  padding-left: 60px;
 }
 
 #facebook span {
@@ -166,6 +166,9 @@ a.button span {
 #book span {
   background: transparent url(../images/book.png) 12px 50% no-repeat;
 }
+
+#book { opacity: 0.5;  }
+
 #view-on-github {
   margin-right: 0;
 }
