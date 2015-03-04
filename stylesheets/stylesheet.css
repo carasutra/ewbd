@@ -71,6 +71,7 @@ header {
 header img.main {
 	margin-left: auto;
 	margin-right: auto;
+	border-radius: 10px;
 }
 
 header h1 {
